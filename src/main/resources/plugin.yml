@@ -1,0 +1,10 @@
+name: Survivalgame
+version: '${project.version}'
+main: be.symbiosis.survivalgame.SurvivalGame
+api-version: 1.18
+authors: [ Symbiosis ]
+commands:
+  team:
+    description: Permet d'ouvrir le menu de team
+  addpoint:
+    description: Ajouter des points à une team
